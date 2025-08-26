@@ -1,5 +1,5 @@
 ## Hi, I'm Obitope Eniola Nathaniel
-### Founder and CEO of oendevworks..
+### Founder and CEO of oentech..
 
 <h1 align="center">Hi 👋, I'm Obitope Eniola Nathaniel</h1>
 <h3 align="center">I'm a Full Stack Developer with skills in HTML, CSS, JavaScript, Vue, React, Django, and Node.js. I have a growing passion for AI, Machine Learning, and Deep Learning, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-life projects.</h3>

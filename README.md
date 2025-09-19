@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/obitopee" target="blank"><img src="https://img.shields.io/twitter/follow/obitopee?logo=twitter&style=for-the-badge" alt="obitopee" /></a> </p>
 
-- 🔭 I’m currently working on [Flight-Book-app](https://github.com/Obitope-Eniola-Nathaniel/Flight-Booking-Web-App)
+- 🔭 I’m currently working on [We Listen](https://we-listen.co/)
 
 - 🌱 I’m currently learning **Node.js AI/Ml and Basic Designs**
 

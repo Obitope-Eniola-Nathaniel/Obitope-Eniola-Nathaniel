@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/obitopee" target="blank"><img src="https://img.shields.io/twitter/follow/obitopee?logo=twitter&style=for-the-badge" alt="obitopee" /></a> </p>
 
-- 🔭 I’m currently working on [We Listen](https://we-listen.co/)
+- 🔭 I’m currently working on [We Listen (Annoymous Chat App)](https://we-listen.co/)
 
 - 🌱 I’m currently learning **AWS, AI/Ml and Basic Designs**
 
@@ -20,10 +20,6 @@
 - 📄 Know about my experiences [https://oendevworks.vercel.app/](https://oendevworks.vercel.app/)
 
 - ⚡ Fun fact **I love to learn**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

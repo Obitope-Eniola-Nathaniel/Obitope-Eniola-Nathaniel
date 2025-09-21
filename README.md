@@ -2,7 +2,7 @@
 ### Founder and CEO of oentech..
 
 <h1 align="center">Hi 👋, I'm Obitope Eniola Nathaniel</h1>
-<h3 align="center">I'm a Full Stack Developer with skills in HTML, CSS, JavaScript, Vue, React, Django, and Node.js. I have a growing passion for AI, Machine Learning, and Deep Learning, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-life projects.</h3>
+<h3 align="center">I'm a Full Stack Developer with skills in HTML, CSS, JavaScript, Vue, React, Django, Node.js, Express.js, SQL and AWS. I have a growing passion for AI, Machine Learning, and Deep Learning, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-life projects.</h3>
 
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [We Listen](https://we-listen.co/)
 
-- 🌱 I’m currently learning **Node.js AI/Ml and Basic Designs**
+- 🌱 I’m currently learning **AWS, AI/Ml and Basic Designs**
 
 - 👨‍💻 All of my projects are available at [https://oendevworks.vercel.app/](https://oendevworks.vercel.app/)
 

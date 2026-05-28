@@ -1,7 +1,7 @@
 ## Hi, I'm Obitope Eniola Nathaniel
 ### Founder and CEO of OENTECH..
 
-<h3 align="center">I'm a Full Stack Developer with skills in HTML, CSS, JavaScript, Vue, React, Django, Node.js, Express.js, .Net, Flutter, SQL, NoSql and AWS. I have a growing passion for AI, Machine Learning, and Deep Learning, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-life projects.</h3>
+<h3 align="center">I'm a Full Stack Developer with skills in HTML, CSS, JavaScript, React, Django, Node.js, Express.js, ASP.Net,  SQL, NoSql and AWS. I have a growing passion for AI, Machine Learning, and Deep Learning, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-life projects.</h3>
 
 
 

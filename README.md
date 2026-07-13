@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **obitopeeniola@gmail.com**
 
-- 📄 Know about my experiences [https://oen-blond.vercel.app/](https://oen-blond.vercel.app/)
+- 📄 Know about my experiences [https://oen-uf1v.vercel.app/](https://oen-uf1v.vercel.app/)
 
 - ⚡ Fun fact **I love to learn**
 

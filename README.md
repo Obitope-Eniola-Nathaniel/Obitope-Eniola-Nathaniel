@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS, AI/Ml and Basic Designs**
 
-- 👨‍💻 All of my projects are available at [https://oen-blond.vercel.app/](https://oen-blond.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://oen-blond.vercel.app/](https://oen-uf1v.vercel.app/)
 
 - 💬 Ask me about **React, Vanillajs, NodeJs, Django, AWS, AI and Ml**
 
